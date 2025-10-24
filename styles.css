@@ -1,0 +1,44 @@
+.header{
+    background-color:aquamarine;
+    max-width: 600px;
+    margin: auto;
+}
+
+.top-header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+}
+
+.main-nav{
+    display: flex;
+    list-style-type: none;
+    padding: 0;
+    justify-content: center;
+}
+
+.nav-item{
+    margin: 0 10px;
+    background-color:aqua;
+    padding: 10px;
+    border-radius: 10px;
+    text-decoration: none;
+}
+
+.main-content{
+    display: flex;
+    background-color: azure;
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+}
+
+.main{
+    padding: 20px;
+    background-color:blue;
+}
+.side-nav{
+    padding: 20px;
+    background-color: blueviolet;
+}
